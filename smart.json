@@ -1,0 +1,9 @@
+{
+  "name": "jawbone-up",
+  "description": "A Meteor wrapper for the Jawbone UP API.",
+  "homepage": "",
+  "author": "Mark Shropshire <mdshrops@shropnet.net> (http://mark.shropshires.net)",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {}
+}
